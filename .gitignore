@@ -1,3 +1,6 @@
 
 # ignore dataset files
 data/*
+
+# ignore log files
+*.log
